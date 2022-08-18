@@ -1,19 +1,14 @@
 /*
-Write a program which accepts matrix from user and reverse the contents of each column.
+Write a program which accepts matrix from user and check whether the matix is identity matrix or not.
 
 Input : 
 
-3   2   5   9
-4   3   2   2
-8   4   1   9
-3   9   7   5
+1   0   0   0
+0   1   0   0
+0   0   1   0
+0   0   0   1
 
-Output : 
-
-3   9   7   5
-8   4   1   9
-4   3   2   2
-3   2   5   9
+Output : TRUE
 
 */
 
